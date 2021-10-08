@@ -9,7 +9,7 @@
 
 - I'm looking to collaborate on **Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mr-Vansh1](https://github.com/Mr-Vansh1)
+- 👨‍💻 All of my projects are available at [https://github.com/Mr-Vansh](https://github.com/Mr-Vansh)
 
 - 💬 Ask me about **C++, HTML, CSS, JS, BOOTSTRAP**
 
