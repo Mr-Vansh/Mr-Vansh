@@ -11,7 +11,7 @@
 
 - 👨‍💻 My Portfolio [vansh-chitlangia.netlify.app](vansh-chitlangia.netlify.app)
 
-- 💬 Ask me about **C++, HTML, CSS, BOOTSTRAP**
+- 💬 Ask me about **C++, HTML, CSS, Javascript, BOOTSTRAP**
 
 - 📫 How to reach me **chitlangiavansh@gmail.com**
 
