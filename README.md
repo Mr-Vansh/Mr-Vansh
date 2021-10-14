@@ -7,7 +7,7 @@
 
 - 🌱 Currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **Projects, Open source contribution**
+- 👯 I’m looking to collaborate on **Anything under my knowledge.**
 
 - 💬 Ask me about **C++, HTML, CSS, Javascript, BOOTSTRAP**
 
