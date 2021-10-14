@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-vansh&label=Profile%20views&color=0e75b6&style=flat" alt="mr-vansh" /> </p>
 
-- 🔭 I’m currently working on **Hotstar Clone (Landing page) !!!**
+- 🔭 Working on **Hotstar Clone (Landing page) !!!**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 Currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **Projects, Articles**
-
-- 👨‍💻 My Portfolio [vansh-chitlangia.netlify.app](vansh-chitlangia.netlify.app)
+- 👯 I’m looking to collaborate on **Projects, Open source contribution**
 
 - 💬 Ask me about **C++, HTML, CSS, Javascript, BOOTSTRAP**
 
