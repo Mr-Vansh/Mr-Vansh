@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chitlangiavansh@gmail.com**
 
-- 📄 Check my resume [shorturl.at/rtBD8](shorturl.at/rtBD8)
+- 📄 Check my resume []()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
