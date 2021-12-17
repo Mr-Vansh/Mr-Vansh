@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Anything under my knowledge.**
 
-- 💬 Ask me about **C++, HTML, CSS, Javascript, BOOTSTRAP, React-JS**
+- 💬 Ask me about **C++, HTML, CSS, Javascript, BOOTSTRAP, React, SEO**
 
 - 📫 How to reach me **chitlangiavansh@gmail.com**
 
