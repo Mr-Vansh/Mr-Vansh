@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++, HTML, CSS, Javascript, BOOTSTRAP, React, SEO**
 
-- 📫 How to reach me **chitlangiavansh@gmail.com**
+- 📫 Portfolio **https://vansh-chitlangia.netlify.app/**
 
 - 📄 Check my resume [https://cutt.ly/sYKOH6V](https://cutt.ly/sYKOH6V)
 
