@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-vansh&label=Profile%20views&color=0e75b6&style=flat" alt="mr-vansh" /> </p>
 
-- 🔭 Working on **Hotstar Clone (Landing page) !!!**
+<!-- - 🔭 Working on **Hotstar Clone (Landing page) !!!** -->
 
 - 🌱 Currently learning **React.js**
 
