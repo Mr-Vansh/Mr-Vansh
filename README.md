@@ -7,7 +7,7 @@
 
 - 🌱 Currently learning **React.js**
 
-- 💬 Ask me about **C++, HTML, CSS, Javascript, BOOTSTRAP, React-JS, SEO**
+- 💬 Ask me about **C++, HTML, CSS, Javascript, BOOTSTRAP, React-JS**
 
 - 📫 Portfolio **https://vansh-chitlangia.netlify.app/**
 
