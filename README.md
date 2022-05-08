@@ -11,7 +11,7 @@
 
 - 📫 Portfolio **https://vansh-chitlangia.netlify.app/**
 
-- 📄 Check my resume [https://cutt.ly/dI1riw8](https://cutt.ly/dI1riw8)
+- 📄 Check my resume [https://drive.google.com/file/d/14875pwTa4GydPOgSVXYnPhBeJET8-Hbs/view](https://drive.google.com/file/d/14875pwTa4GydPOgSVXYnPhBeJET8-Hbs/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
